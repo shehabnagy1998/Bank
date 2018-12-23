@@ -1,0 +1,169 @@
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.exe.config
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.exe
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.pdb
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.NEW.resources
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.Properties.Resources.resources
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.csproj.GenerateResource.Cache
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.exe
+c:\users\shehab nagy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\bin\Debug\BANK.exe.config
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.exe
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.pdb
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\bin\Debug\BANK.exe
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\bin\Debug\BANK.pdb
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.NEW.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Starting.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.csproj.GenerateResource.Cache
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Delete.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Services.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Edit.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Transfering.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Check.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Deposit.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Withdraw.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.SplashScreen.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.Intro.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\bin\Debug\ar-EG\BANK.resources.dll
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.ar-EG.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\ar-EG\BANK.resources.dll
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\bin\Debug\agq-CM\BANK.resources.dll
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.agq-CM.resources
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\agq-CM\BANK.resources.dll
+C:\Users\Shehab Nagy\Documents\Visual Studio 2015\Projects\BANK\Bank\BANK\obj\Debug\BANK.NewEditing.resources
+D:\Programming\c#\BANK\Bank\BANK\bin\Debug\BANK.exe.config
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.exe
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.pdb
+D:\Programming\c#\BANK\Bank\BANK\bin\Debug\BANK.exe
+D:\Programming\c#\BANK\Bank\BANK\bin\Debug\BANK.pdb
+D:\Programming\c#\BANK\Bank\BANK\bin\Debug\agq-CM\BANK.resources.dll
+D:\Programming\c#\BANK\Bank\BANK\bin\Debug\ar-EG\BANK.resources.dll
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Check.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Delete.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Deposit.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Edit.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.NEW.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Properties.Resources.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Services.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.SplashScreen.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Starting.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Transfering.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.Withdraw.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.agq-CM.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.ar-EG.resources
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\BANK.csproj.GenerateResource.Cache
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\agq-CM\BANK.resources.dll
+D:\Programming\c#\BANK\Bank\BANK\obj\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\BANK.exe.config
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\BANK.exe
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\BANK.pdb
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Check.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Delete.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Deposit.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Edit.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.NEW.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.SplashScreen.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Starting.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Transfering.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Withdraw.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.agq-CM.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.LOGIN.ar-EG.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.csproj.GenerateResource.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.csproj.CoreCompileInputs.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.exe
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.pdb
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\MySql.Data.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\Google.Protobuf.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Debug\MySql.Data.xml
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.csproj.CopyComplete
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Supervisor.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.GetLoan.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Loans.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.viewLoan.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Manger.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Debug\BANK.Intro.resources
+C:\Users\Shorouk Gamal\Desktop\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\Shorouk Gamal\Desktop\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.exe
+C:\Users\Shorouk Gamal\Desktop\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.pdb
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.exe.config
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.exe
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.pdb
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\MySql.Data.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\Google.Protobuf.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\MySql.Data.xml
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Check.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Delete.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Deposit.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Edit.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.GetLoan.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Intro.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Loans.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Manger.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.NEW.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.SplashScreen.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Starting.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Supervisor.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Transfering.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.viewLoan.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Withdraw.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.agq-CM.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.ar-EG.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.GenerateResource.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.CoreCompileInputs.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.CopyComplete
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.exe
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.pdb
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.exe.config
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.exe
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\BANK.pdb
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\MySql.Data.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\Google.Protobuf.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Debug\MySql.Data.xml
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Check.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Delete.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Deposit.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Edit.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.GetLoan.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Intro.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Loans.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Manger.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.NEW.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.SplashScreen.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Starting.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Supervisor.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Transfering.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.viewLoan.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.Withdraw.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.agq-CM.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.LOGIN.ar-EG.resources
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.GenerateResource.cache
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.CoreCompileInputs.cache
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.csproj.CopyComplete
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.exe
+C:\Users\ShehabNagy\Desktop\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Debug\BANK.pdb

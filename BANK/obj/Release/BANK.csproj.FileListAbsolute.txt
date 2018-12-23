@@ -1,0 +1,67 @@
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\BANK.exe.config
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\BANK.exe
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\BANK.pdb
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\MySql.Data.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\Google.Protobuf.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\bin\Release\MySql.Data.xml
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Check.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Delete.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Deposit.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Edit.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.LOGIN.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.NEW.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Properties.Resources.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.SplashScreen.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Starting.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Supervisor.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Transfering.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Withdraw.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.LOGIN.agq-CM.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.LOGIN.ar-EG.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.csproj.GenerateResource.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.csproj.CoreCompileInputs.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.csproj.CopyComplete
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.exe
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.pdb
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.csprojAssemblyReference.cache
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.Loans.resources
+C:\Users\ShehabNagy\Desktop\BANK\Bank\BANK\obj\Release\BANK.GetLoan.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\BANK.exe.config
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\BANK.exe
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\BANK.pdb
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\MySql.Data.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\Google.Protobuf.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\bin\Release\MySql.Data.xml
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.csprojAssemblyReference.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Check.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Delete.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Deposit.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Edit.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.GetLoan.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Intro.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Loans.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.LOGIN.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Manger.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.NEW.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Properties.Resources.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.SplashScreen.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Starting.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Supervisor.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Transfering.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.viewLoan.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.Withdraw.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.LOGIN.agq-CM.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.LOGIN.ar-EG.resources
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.csproj.GenerateResource.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.csproj.CoreCompileInputs.cache
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\agq-CM\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\ar-EG\BANK.resources.dll
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.csproj.CopyComplete
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.exe
+C:\Users\ShehabNagy\Downloads\edit bank\Bank-bankEx\Bank-bankEx\BANK\obj\Release\BANK.pdb
